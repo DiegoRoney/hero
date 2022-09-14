@@ -41,10 +41,12 @@ body {
     margin: 1px;
     background-color: rgba(255, 255, 255, 0);
     padding: 5px;
+    overflow: hidden; 
 }
 
 .flex-items img {
-    height: 100%;   
+    height: 100%;  
+    
 }
 
 .cont-texto {
